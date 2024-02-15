@@ -2,6 +2,40 @@
 
 Purpose: help you to memorise piano scales, by learning some music theory and a few tricks.
 
+## Deploy to GitHub Pages
+
+(This applies to any React app.)
+
+Install the GitHub Pages package as a dev dependency:
+
+```bash
+npm install gh-pages --save-dev
+```
+
+Add the following to `package.json`:
+
+```json
+"homepage": "https://<username>.github.io/<repository-name>",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
+```
+
+Build:
+
+```bash
+npm run build
+```
+
+Deploy:
+
+```bash
+npm run deploy
+```
+
+Navigate to the home page!
+
 ## Worked examples
 
 - Order in which sharps are added: Father Christmas Gave Dad An Electric Blanket (F C G D A E B).
