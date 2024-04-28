@@ -1,6 +1,70 @@
 # piano-scales
 
+Hosted at https://mikecullimore.github.io/piano-scales/
+
 Purpose: help you to memorise piano scales, by learning some music theory and a few tricks.
+
+## TODO
+
+Add a second scale and a menu to choose between them.
+
+## Scales in Trinity book
+
+Focus on the scales in this book in grade order.
+
+- Piano Scales & Arpeggios
+- For Trinity College London exams from 2015
+- Initial - Grade 5
+- Trinity College London Press
+
+I find it easier to approach the minor scales in the order natural, harmonic, melodic.
+
+- Natural: as the key signature.
+- Harmonic: raised seventh.
+- Melodic: raised sixth and seventh ascending, as key signature descending.
+
+### Initial
+
+All hands apart i.e. right then left, scales all one octave.
+
+1. C major
+1. C major broken triad to 5th
+1. A harmonic minor
+1. A melodic minor
+1. A natural minor
+1. A minor broken triad to 5th
+
+### Grade 1
+
+1. F major
+1. F major broken chord
+1. G major
+1. G major broken chord
+1. D harmonic minor
+1. D melodic minor
+1. D natural minor
+1. D minor broken chord
+1. E harmonic minor
+1. E melodic minor
+1. E natural minor
+1. E minor broken chord
+1. C major contrary motion scale
+1. Chromatic scale in contrary motion hands together starting on D
+
+### Grade 2
+
+All two octaves.
+
+1. Bb major
+1. Bb major arpeggio
+1. D major
+1. D major arpeggio
+1. G minors (x3)
+1. G minor arpeggio
+1. B minors (not natural: why?)
+1. B minor arpeggio
+1. C major contrary motion
+1. Chromatic scale in similar motion starting on Bb
 
 ## Deploy to GitHub Pages
 
