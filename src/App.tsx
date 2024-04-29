@@ -1,13 +1,15 @@
-import React from 'react';
-import scale from './scales/g-major-two-octaves-hands-together.svg';
 import './App.css';
+//import { fMajor as scale} from './scales/scales';
+//import { gMajor as scale} from './scales/scales';
+import { getRandomScale } from './scales/scales';
 
 function App() {
+  const scale = getRandomScale();
   return (
     <div className="App">
       <header className="App-header">
-        <p>G major</p>
-        <img src={scale} className="scale" alt="G major two octave hands together" />
+        <p>{scale.name}</p>
+        <img src={scale.image} className="scale" alt={scale.description} />
       </header>
     </div>
   );

@@ -6,7 +6,8 @@ Purpose: help you to memorise piano scales, by learning some music theory and a 
 
 ## TODO
 
-Add a second scale and a menu to choose between them.
+- Add more scales!
+- Option to select from list rather than randomise.
 
 ## Scales in Trinity book
 
@@ -125,3 +126,8 @@ Navigate to the home page!
 
 - An exception?
 - One flat: Bb.
+
+## How to add a new scale.
+
+1. Write Lilypond markup, compile to SVG.
+1. Optimise SVG with e.g. https://svgomg.net/
