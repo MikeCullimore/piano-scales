@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/piano-scales/static/css/main.a21d834f.css",
-    "main.js": "/piano-scales/static/js/main.fb095e0a.js",
+    "main.js": "/piano-scales/static/js/main.107b2af5.js",
     "static/js/453.0b82fa8b.chunk.js": "/piano-scales/static/js/453.0b82fa8b.chunk.js",
     "static/media/g-major-two-octaves-hands-together.svg": "/piano-scales/static/media/g-major-two-octaves-hands-together.9e686836f170dc954310cd5837582bc1.svg",
+    "static/media/f-major-two-octaves-hands-together.svg": "/piano-scales/static/media/f-major-two-octaves-hands-together.5d5bcb6ad97cbcc6a810b0bdba553ac1.svg",
     "index.html": "/piano-scales/index.html",
     "main.a21d834f.css.map": "/piano-scales/static/css/main.a21d834f.css.map",
-    "main.fb095e0a.js.map": "/piano-scales/static/js/main.fb095e0a.js.map",
+    "main.107b2af5.js.map": "/piano-scales/static/js/main.107b2af5.js.map",
     "453.0b82fa8b.chunk.js.map": "/piano-scales/static/js/453.0b82fa8b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a21d834f.css",
-    "static/js/main.fb095e0a.js"
+    "static/js/main.107b2af5.js"
   ]
 }
